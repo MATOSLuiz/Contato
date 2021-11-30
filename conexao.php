@@ -2,7 +2,7 @@
 
 $usuario = 'root';
 $senha = '';
-$database = 'nutriform';
+$database = 'contato';
 $host = 'localhost';
 
 $mysqli = new mysqli($host, $usuario,$senha,$database);
