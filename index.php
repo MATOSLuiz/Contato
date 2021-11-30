@@ -23,11 +23,6 @@ if(isset($_POST['submit'])){
 </head>
 <style>
 
-    body{
-        background-color: #00cccc
-;
-    }
-
     .container-fluid{
         display: flex;
         align-items: center;
